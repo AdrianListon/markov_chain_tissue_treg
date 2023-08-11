@@ -1,0 +1,4 @@
+celltype,n_cells_born_per_day
+Treg,100000
+Tconv,500000
+CD8,400000
